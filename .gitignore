@@ -1,0 +1,47 @@
+        .VirtualBox/*
+        .anaconda/*
+        .android/*
+        .cache/*
+        .comsol/*
+        .condarc
+        .config/*
+        .dia/*
+        .dotnet/
+        .gitconfig
+        .idlerc/*
+        .ipynb_checkpoints/*
+        .ipython/*
+        .jupyter/*
+        .matplotlib/*
+        .templateengine/*
+        .vsts/*
+        3D Objects/*
+        AppData/*
+        CLionProjects/*
+        Contacts/*
+        Desktop/*
+        Documents/*
+        Downloads/*
+        Favorites/*
+        Firefox_Installer.exe
+        IntelGraphicsProfiles/*
+        Links/*
+        MicrosoftEdgeBackups/*
+        Music/*
+        *NTUSER.DAT
+        *NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        *NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        *NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/*
+        Pictures/*
+        PycharmProjects/*
+        RiderProjects/*
+        Saved Games/*
+        Searches/*
+        *TelamonCleaner_id6187cb1167703og.exe
+        Tracing/*
+        Videos/*
+        VirtualBox VMs/*
+        *ntuser.dat.LOG1
+        *ntuser.dat.LOG2
+        *ntuser.ini
